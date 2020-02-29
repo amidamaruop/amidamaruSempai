@@ -63,4 +63,4 @@ print(dias2)
 ~~~~
 ![kill](imagens/sett.jpg)
 ~~~~
-![kill](imagens/sett.jpg)
+![kill](imagens/sett.jpg) 
